@@ -75,7 +75,7 @@ Jupyter notebooks, EDA, visualizations, sample datasets.
 - Command Line  
 
 
-## 🎯 Goals for 2025  
+## 🎯 Goals for 2026  
 - Build 10+ IT & networking projects  
 - Complete 5 cybersecurity labs  
 - Publish 3 data analysis case studies  
@@ -84,4 +84,5 @@ Jupyter notebooks, EDA, visualizations, sample datasets.
 
 ## 📫 Contact  
 Email- Chimdinma77@gmail.com
+
 phone - +2348147969751
