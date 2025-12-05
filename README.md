@@ -1,10 +1,9 @@
 # # 👋 Hi, I'm Emmanuel Chimdinma  
-### IT Support | Network Technician | Fiber Optic Specialist | Cybersecurity Beginner | Data Analyst (Learning)
+### IT Support | Network Technician | Fiber Optic Specialist | Cybersecurity Beginner | Data Analyst
 
 Welcome to my GitHub portfolio!  
 I am passionate about solving technical problems, building networks, exploring cybersecurity, and analyzing data to extract meaningful insights.
 
----
 
 ## 🚀 About Me
 - 💻 IT Support Technician  
@@ -14,7 +13,6 @@ I am passionate about solving technical problems, building networks, exploring c
 - 🎯 Currently building real-world projects to grow my portfolio  
 - 📚 Always learning and improving my technical skills
 
----
 
 ## 🔧 Technical Skills  
 ### **IT & Support**
@@ -48,7 +46,6 @@ I am passionate about solving technical problems, building networks, exploring c
 - Power BI / Excel dashboards  
 - Data cleaning & reporting  
 
----
 
 ## 📁 Featured Repositories  
 ### 🔹 IT Support Projects  
@@ -66,7 +63,6 @@ Beginner SOC tasks, log analysis, security assessments.
 ### 🔹 Data Analysis Portfolio  
 Jupyter notebooks, EDA, visualizations, sample datasets.
 
----
 
 ## 🛠 Tools & Technologies  
 - Git & GitHub  
@@ -78,7 +74,6 @@ Jupyter notebooks, EDA, visualizations, sample datasets.
 - Wireshark  
 - Command Line  
 
----
 
 ## 🎯 Goals for 2025  
 - Build 10+ IT & networking projects  
@@ -86,7 +81,7 @@ Jupyter notebooks, EDA, visualizations, sample datasets.
 - Publish 3 data analysis case studies  
 - Improve automation with Bash, PowerShell, and Python  
 
----
 
 ## 📫 Contact  
-**Email-
+Email- Chimdinma77@gmail.com
+phone - +2348147969751
